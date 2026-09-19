@@ -1,0 +1,1693 @@
+# Translations template for PROJECT.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-06-30 23:34+0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+#: app/templates/404.html:11
+msgid "Page not found"
+msgstr ""
+
+#: app/templates/404.html:15
+msgid "The page you are looking for does not exist or has been moved."
+msgstr ""
+
+#: app/templates/404.html:21
+msgid "Go Home"
+msgstr ""
+
+#: app/templates/404.html:26
+msgid "Explore Tools"
+msgstr ""
+
+#: app/templates/about.html:3 app/templates/about.html:7
+msgid "About Us"
+msgstr ""
+
+#: app/templates/about.html:9
+msgid ""
+"Welcome to our platform. We are dedicated to providing fast, secure, and "
+"free online tools to help you manage your digital documents effortlessly."
+msgstr ""
+
+#: app/templates/about.html:12
+msgid "Our Mission"
+msgstr ""
+
+#: app/templates/about.html:14
+msgid ""
+"Our mission is to simplify complex tasks through intuitive design and "
+"reliable technology. We believe that professional tools should be "
+"accessible to everyone, anywhere."
+msgstr ""
+
+#: app/templates/base.html:47
+msgid "Merge"
+msgstr ""
+
+#: app/templates/base.html:48
+msgid "Split"
+msgstr ""
+
+#: app/templates/base.html:49
+msgid "To Text"
+msgstr ""
+
+#: app/templates/base.html:50 app/templates/base.html:194
+#: app/templates/base.html:234 app/templates/image_to_pdf.html:3
+#: app/templates/image_to_pdf.html:10 app/templates/index.html:69
+#: app/templates/tools.html:57
+msgid "Image to PDF"
+msgstr ""
+
+#: app/templates/base.html:138
+msgid "Quick Access Tools"
+msgstr ""
+
+#: app/templates/base.html:152 app/templates/base.html:231
+#: app/templates/index.html:33 app/templates/merge.html:226
+#: app/templates/merge.html:228 app/templates/tools.html:21
+msgid "Merge PDF"
+msgstr ""
+
+#: app/templates/base.html:166 app/templates/base.html:232
+#: app/templates/index.html:45 app/templates/split.html:3
+#: app/templates/split.html:10 app/templates/tools.html:33
+msgid "Split PDF"
+msgstr ""
+
+#: app/templates/base.html:180 app/templates/base.html:233
+#: app/templates/index.html:57 app/templates/to_text.html:3
+#: app/templates/to_text.html:10 app/templates/tools.html:45
+msgid "PDF to Text"
+msgstr ""
+
+#: app/templates/base.html:213
+msgid ""
+"The simplest way to manage your PDF files. Fast, secure, and free online "
+"tools to help you work smarter."
+msgstr ""
+
+#: app/templates/base.html:219
+msgid "Product"
+msgstr ""
+
+#: app/templates/base.html:221
+msgid "Home"
+msgstr ""
+
+#: app/templates/base.html:222
+msgid "Tools"
+msgstr ""
+
+#: app/templates/base.html:223
+msgid "FAQ"
+msgstr ""
+
+#: app/templates/base.html:229
+msgid "Our Tools"
+msgstr ""
+
+#: app/templates/base.html:240
+msgid "Support"
+msgstr ""
+
+#: app/templates/base.html:242 app/templates/privacy.html:9
+msgid "Privacy Policy"
+msgstr ""
+
+#: app/templates/base.html:243 app/templates/terms.html:9
+msgid "Terms of Service"
+msgstr ""
+
+#: app/templates/base.html:255 app/templates/privacy.html:192
+#: app/templates/terms.html:132
+msgid "All rights reserved."
+msgstr ""
+
+#: app/templates/base.html:356
+msgid ""
+"We use cookies to improve your experience, analyze traffic, and show "
+"relevant ads."
+msgstr ""
+
+#: app/templates/base.html:358
+msgid "Learn more"
+msgstr ""
+
+#: app/templates/base.html:367
+msgid "Reject"
+msgstr ""
+
+#: app/templates/base.html:372
+msgid "Preferences"
+msgstr ""
+
+#: app/templates/base.html:377
+msgid "Accept All"
+msgstr ""
+
+#: app/templates/blog.html:6
+msgid "PDF Knowledge Hub"
+msgstr ""
+
+#: app/templates/blog.html:7
+msgid ""
+"Expert tips, security guides, and productivity hacks to help you manage "
+"your documents like a pro."
+msgstr ""
+
+#: app/templates/blog.html:18
+msgid "Read more →"
+msgstr ""
+
+#: app/templates/blog.html:26
+msgid "Ready to manage your documents?"
+msgstr ""
+
+#: app/templates/blog.html:27
+msgid ""
+"Join thousands of users who trust us to handle their PDF tasks securely "
+"and efficiently every day."
+msgstr ""
+
+#: app/templates/blog.html:30
+msgid "Try Merge PDF Tool"
+msgstr ""
+
+#: app/templates/blog.html:33
+msgid "Learn about our security"
+msgstr ""
+
+#: app/templates/contact.html:3 app/templates/contact.html:7
+msgid "Contact Us"
+msgstr ""
+
+#: app/templates/contact.html:9
+msgid "Have questions or feedback? We would love to hear from you."
+msgstr ""
+
+#: app/templates/contact.html:15
+msgid "Email Address"
+msgstr ""
+
+#: app/templates/contact.html:19
+msgid "Message"
+msgstr ""
+
+#: app/templates/contact.html:23
+msgid "Send Message"
+msgstr ""
+
+#: app/templates/faq.html:3
+msgid "Frequently Asked Questions"
+msgstr ""
+
+#: app/templates/faq.html:10
+msgid "Need help with our tools?"
+msgstr ""
+
+#: app/templates/faq.html:13
+msgid "Get clear, quick answers to common questions about our PDF suite."
+msgstr ""
+
+#: app/templates/faq.html:22
+msgid "How do I merge multiple PDF files?"
+msgstr ""
+
+#: app/templates/faq.html:26
+msgid ""
+"It is effortless! Just drag and drop your files into our merge tool, "
+"arrange them in your desired order, and click \"Process\". Your combined "
+"document will be ready in seconds."
+msgstr ""
+
+#: app/templates/faq.html:27 app/templates/faq.html:40
+#: app/templates/faq.html:53 app/templates/merge.html:32
+#: app/templates/split.html:37
+msgid "Only .PDF file format is accepted"
+msgstr ""
+
+#: app/templates/faq.html:35
+msgid "Can I extract specific pages from a PDF?"
+msgstr ""
+
+#: app/templates/faq.html:39
+msgid ""
+"Absolutely. Whether you need a single page or a custom range, our "
+"splitter tool allows you to isolate exactly what you need with precision."
+msgstr ""
+
+#: app/templates/faq.html:48
+msgid "How accurate is the PDF to Text conversion?"
+msgstr ""
+
+#: app/templates/faq.html:52
+msgid ""
+"We use advanced processing to ensure high accuracy. Simply upload your "
+"PDF, and get your editable text content back instantly, saving you time "
+"from manual typing."
+msgstr ""
+
+#: app/templates/faq.html:61
+msgid "Can I turn my images into a PDF?"
+msgstr ""
+
+#: app/templates/faq.html:65
+msgid ""
+"Yes! You can instantly combine various image formats into a professional,"
+" high-quality PDF document. Perfect for organizing reports or documents."
+msgstr ""
+
+#: app/templates/faq.html:66
+msgid "Only .PDF file format is accepted for subsequent tools."
+msgstr ""
+
+#: app/templates/image_to_pdf.html:11
+msgid "Convert your images (JPG, PNG) into professional PDF files in just seconds"
+msgstr ""
+
+#: app/templates/image_to_pdf.html:30
+msgid "Drag & Drop or click to upload images"
+msgstr ""
+
+#: app/templates/image_to_pdf.html:31
+msgid "Supports JPG, PNG, WEBP formats (Multiple images allowed)"
+msgstr ""
+
+#: app/templates/image_to_pdf.html:38
+msgid "How to Convert Image to PDF"
+msgstr ""
+
+#: app/templates/image_to_pdf.html:44
+msgid "Upload Images"
+msgstr ""
+
+#: app/templates/image_to_pdf.html:46
+msgid ""
+"Click or drag files into the upload box. You can select multiple images "
+"(JPG, PNG, WEBP) at once."
+msgstr ""
+
+#: app/templates/image_to_pdf.html:51
+msgid "Configure Layout"
+msgstr ""
+
+#: app/templates/image_to_pdf.html:53
+msgid ""
+"Adjust page settings like output size (A4, Letter, Auto), orientation, "
+"and drag slider to change quality."
+msgstr ""
+
+#: app/templates/image_to_pdf.html:58
+msgid "Convert & Download"
+msgstr ""
+
+#: app/templates/image_to_pdf.html:60
+msgid ""
+"Click the \"Convert to PDF\" button. Wait a moment and you will be "
+"automatically redirected to download page."
+msgstr ""
+
+#: app/templates/image_to_pdf.html:68
+msgid "Image Pages Preview List"
+msgstr ""
+
+#: app/templates/image_to_pdf.html:70 app/templates/image_to_pdf.html:142
+msgid "images"
+msgstr ""
+
+#: app/templates/image_to_pdf.html:82
+msgid "Please select images first to configure the output PDF settings."
+msgstr ""
+
+#: app/templates/image_to_pdf.html:87
+msgid "PDF Export Configuration"
+msgstr ""
+
+#: app/templates/image_to_pdf.html:92
+msgid "Output Page Size"
+msgstr ""
+
+#: app/templates/image_to_pdf.html:94
+msgid "Auto (Fit image size)"
+msgstr ""
+
+#: app/templates/image_to_pdf.html:95
+msgid "Standard A4 Size"
+msgstr ""
+
+#: app/templates/image_to_pdf.html:96
+msgid "US Letter Size"
+msgstr ""
+
+#: app/templates/image_to_pdf.html:101
+msgid "Page Orientation"
+msgstr ""
+
+#: app/templates/image_to_pdf.html:104
+msgid "Portrait"
+msgstr ""
+
+#: app/templates/image_to_pdf.html:107
+msgid "Landscape"
+msgstr ""
+
+#: app/templates/image_to_pdf.html:115
+msgid "Image PDF Quality"
+msgstr ""
+
+#: app/templates/image_to_pdf.html:116 app/templates/image_to_pdf.html:149
+msgid "Best (100%)"
+msgstr ""
+
+#: app/templates/image_to_pdf.html:127 app/templates/image_to_pdf.html:147
+msgid "Convert to PDF"
+msgstr ""
+
+#: app/templates/image_to_pdf.html:141
+#, python-brace-format
+msgid "File \"{filename}\" is not a valid image format!"
+msgstr ""
+
+#: app/templates/image_to_pdf.html:143
+msgid "Loading..."
+msgstr ""
+
+#: app/templates/image_to_pdf.html:144
+msgid "Page"
+msgstr ""
+
+#: app/templates/image_to_pdf.html:145
+msgid "Please select at least one image"
+msgstr ""
+
+#: app/templates/image_to_pdf.html:146
+msgid "Packaging PDF..."
+msgstr ""
+
+#: app/templates/image_to_pdf.html:148
+msgid "An error occurred during the PDF creation process!"
+msgstr ""
+
+#: app/templates/image_to_pdf.html:150
+#, python-brace-format
+msgid "Medium compression ({value}%)"
+msgstr ""
+
+#: app/templates/index.html:3
+msgid "Free PDF Tools Online"
+msgstr ""
+
+#: app/templates/index.html:11
+msgid "Free Online PDF Tools"
+msgstr ""
+
+#: app/templates/index.html:14
+msgid ""
+"Effortlessly merge, split, and convert your documents in seconds. "
+"Experience a fast, secure, and completely free solution designed to "
+"simplify your workflow."
+msgstr ""
+
+#: app/templates/index.html:18
+msgid "Lightning Fast"
+msgstr ""
+
+#: app/templates/index.html:19
+msgid "Secure & Private"
+msgstr ""
+
+#: app/templates/index.html:20
+msgid "100 Free"
+msgstr ""
+
+#: app/templates/index.html:34
+msgid "Combine multiple PDFs into one file"
+msgstr ""
+
+#: app/templates/index.html:46
+msgid "Extract pages from PDF"
+msgstr ""
+
+#: app/templates/index.html:58
+msgid "Extract text from PDF files"
+msgstr ""
+
+#: app/templates/index.html:70
+msgid "Convert images into PDF"
+msgstr ""
+
+#: app/templates/merge.html:11 app/templates/split.html:35
+msgid "Click to choose or Drag & Drop PDF file here"
+msgstr ""
+
+#: app/templates/merge.html:74
+msgid "Merge PDF Online for Free"
+msgstr ""
+
+#: app/templates/merge.html:78
+msgid "Combine Multiple PDF Files into One Document"
+msgstr ""
+
+#: app/templates/merge.html:79
+msgid ""
+"Need to merge several PDF files into a single document? Our Merge PDF "
+"tool makes it easy to combine multiple PDFs online in just a few clicks. "
+"Whether you are organizing business reports, invoices, contracts, "
+"presentations, or personal documents, you can quickly create one "
+"consolidated PDF without installing any software."
+msgstr ""
+
+#: app/templates/merge.html:80
+msgid ""
+"The tool works directly in your browser, allowing you to upload, arrange,"
+" and merge PDF files securely from any device. Simply select your files, "
+"choose the desired order, and download the merged PDF instantly."
+msgstr ""
+
+#: app/templates/merge.html:84
+msgid "What Is a PDF Merger?"
+msgstr ""
+
+#: app/templates/merge.html:85
+msgid ""
+"A PDF merger is an online tool that combines two or more PDF documents "
+"into a single PDF file. Instead of managing multiple separate files, you "
+"can create one organized document that is easier to share, store, print, "
+"and manage."
+msgstr ""
+
+#: app/templates/merge.html:86
+msgid ""
+"PDF merging is commonly used by businesses, students, teachers, legal "
+"professionals, and anyone who works with digital documents regularly."
+msgstr ""
+
+#: app/templates/merge.html:90
+msgid "When Should You Use a Merge PDF Tool?"
+msgstr ""
+
+#: app/templates/merge.html:91
+msgid ""
+"There are many situations where combining PDF files can save time and "
+"improve document organization."
+msgstr ""
+
+#: app/templates/merge.html:93
+msgid "Combining multiple reports into one document."
+msgstr ""
+
+#: app/templates/merge.html:94
+msgid "Merging invoices for accounting purposes."
+msgstr ""
+
+#: app/templates/merge.html:95
+msgid "Joining scanned pages into a single PDF."
+msgstr ""
+
+#: app/templates/merge.html:96
+msgid "Creating complete project documentation."
+msgstr ""
+
+#: app/templates/merge.html:97
+msgid "Combining contracts and supporting documents."
+msgstr ""
+
+#: app/templates/merge.html:98
+msgid "Organizing educational materials and assignments."
+msgstr ""
+
+#: app/templates/merge.html:99
+msgid "Preparing files for printing or sharing."
+msgstr ""
+
+#: app/templates/merge.html:104
+msgid "Benefits of Merging PDF Files"
+msgstr ""
+
+#: app/templates/merge.html:107
+msgid "Better Organization"
+msgstr ""
+
+#: app/templates/merge.html:108
+msgid ""
+"Keep related documents together in a single file for easier access and "
+"management."
+msgstr ""
+
+#: app/templates/merge.html:111
+msgid "Simplified Sharing"
+msgstr ""
+
+#: app/templates/merge.html:112
+msgid ""
+"Send one PDF instead of multiple attachments, making communication more "
+"efficient."
+msgstr ""
+
+#: app/templates/merge.html:115
+msgid "Faster Printing"
+msgstr ""
+
+#: app/templates/merge.html:116
+msgid "Print a complete document package without opening multiple files."
+msgstr ""
+
+#: app/templates/merge.html:119
+msgid "Professional Presentation"
+msgstr ""
+
+#: app/templates/merge.html:120
+msgid "Create organized documents that look cleaner and more professional."
+msgstr ""
+
+#: app/templates/merge.html:123
+msgid "No Software Installation"
+msgstr ""
+
+#: app/templates/merge.html:124
+msgid ""
+"Merge PDFs directly from your browser without downloading or installing "
+"applications."
+msgstr ""
+
+#: app/templates/merge.html:127
+msgid "Secure Processing"
+msgstr ""
+
+#: app/templates/merge.html:128
+msgid ""
+"Uploaded files are processed securely and automatically removed after a "
+"limited period."
+msgstr ""
+
+#: app/templates/merge.html:227
+msgid "Add Files"
+msgstr ""
+
+#: app/templates/merge.html:229
+msgid "Selected Files"
+msgstr ""
+
+#: app/templates/privacy.html:3
+msgid "Privacy Policy - findpdftool.online"
+msgstr ""
+
+#: app/templates/privacy.html:10
+msgid "Last updated: 17 June 2026"
+msgstr ""
+
+#: app/templates/privacy.html:15 app/templates/terms.html:15
+msgid "Table of Contents"
+msgstr ""
+
+#: app/templates/privacy.html:39
+msgid ""
+"This Privacy Policy explains how personal data is collected, used, "
+"disclosed, retained, transferred, and otherwise processed when you access"
+" or use the website, services, products, tools, and features offered by "
+"findpdftool.online through the Service."
+msgstr ""
+
+#: app/templates/privacy.html:40
+msgid ""
+"When you access or use the Service, we may collect personal data that you"
+" provide directly to us, personal data collected automatically from your "
+"device, and personal data generated through your interaction with the "
+"Service."
+msgstr ""
+
+#: app/templates/privacy.html:43
+msgid ""
+"The team behind findpdftool.online operates as the controller of your "
+"personal data. For any inquiries regarding data processing, you can reach"
+" us directly via the contact information provided below."
+msgstr ""
+
+#: app/templates/privacy.html:46
+msgid ""
+"When you access our website, we may automatically collect information "
+"from your device, including cookies, language settings, time zone, device"
+" type and model, device settings, operating system, Internet service "
+"provider, mobile carrier, hardware ID, unique identifiers such as IDFA "
+"and AAID, and information about your interactions with the website."
+msgstr ""
+
+#: app/templates/privacy.html:47
+msgid ""
+"We use this information to provide the Service, analyze how users "
+"interact with the website, improve the Service, and measure advertising "
+"performance."
+msgstr ""
+
+#: app/templates/privacy.html:50
+msgid ""
+"To provide, improve, analyze, support, market, advertise, and process "
+"payments for the Service, we use third-party solutions. These third-party"
+" solutions may include Google Analytics, Google AdSense, Cloudflare, "
+"Sentry, and trusted payment providers. As a result, some personal data "
+"may be stored or processed on servers operated by such third parties."
+msgstr ""
+
+#: app/templates/privacy.html:53
+msgid ""
+"We do not knowingly process personal data from persons under 16 years of "
+"age. If you learn that anyone younger than 16 has provided us with "
+"personal data, please contact us."
+msgstr ""
+
+#: app/templates/privacy.html:59
+msgid ""
+"We collect personal data that you provide directly to us and personal "
+"data that is collected automatically when you access or use the Service."
+msgstr ""
+
+#: app/templates/privacy.html:62
+msgid ""
+"If you create an account or contact us, we may ask you to provide your "
+"email address. This email address may be used to create your profile, "
+"identify your account, and send details related to your payments or "
+"support requests."
+msgstr ""
+
+#: app/templates/privacy.html:63
+msgid ""
+"You may also provide your email address when you contact our support team"
+" or when you choose to receive marketing communications. Other personal "
+"data may be included in documents that you upload to the website if those"
+" documents contain personal data."
+msgstr ""
+
+#: app/templates/privacy.html:66
+msgid ""
+"If you upload a document without subsequently registering an account, we "
+"temporarily process the content of that document solely for the purpose "
+"of providing the requested Service function. Such files are automatically"
+" and permanently deleted from our systems within 1 to 2 hours of upload."
+msgstr ""
+
+#: app/templates/privacy.html:69
+msgid ""
+"We may collect information about how you found us, including the "
+"referring app, website, advertisement, URL, or other source from which "
+"you reached the website."
+msgstr ""
+
+#: app/templates/privacy.html:72
+msgid ""
+"We may collect device and technical information, including language "
+"settings, IP address, time zone, device type and model, device settings, "
+"operating system, Internet service provider, mobile carrier, and hardware"
+" ID."
+msgstr ""
+
+#: app/templates/privacy.html:75
+msgid ""
+"We may collect information about how you interact with the Service, "
+"including pages viewed, features and content used, frequency of use, time"
+" spent on the website, purchases, and other interactions with the "
+"Service."
+msgstr ""
+
+#: app/templates/privacy.html:78
+msgid ""
+"Our service providers may collect advertising identifiers when you access"
+" the website from a mobile device. Depending on your device and operating"
+" system, these identifiers may include Apple Identifier for Advertising "
+"(“IDFA”), Identifier for Vendor (“IDFV”), or Google Advertising ID "
+"(“AAID”). You can typically reset these identifiers through your device "
+"settings, although we do not control those settings."
+msgstr ""
+
+#: app/templates/privacy.html:81
+msgid ""
+"When you make payments through the Service, you may be required to "
+"provide financial account data, such as your credit card number, directly"
+" to our third-party payment service providers. We do not collect or store"
+" your full credit card number. However, we may receive limited "
+"transaction-related information, including the date, time, and amount of "
+"the transaction, and the type of payment method used."
+msgstr ""
+
+#: app/templates/privacy.html:89
+msgid ""
+"A cookie is a small text file stored on a user’s computer or device for "
+"record-keeping purposes. Cookies may be session cookies or persistent "
+"cookies. A session cookie expires when you close your browser and may be "
+"used to make it easier for you to navigate the Service. A persistent "
+"cookie remains on your device for a longer period of time."
+msgstr ""
+
+#: app/templates/privacy.html:92
+msgid ""
+"We may also use tracking pixels and similar technologies that set or rely"
+" on cookies to assist with delivering, measuring, and improving online "
+"advertising."
+msgstr ""
+
+#: app/templates/privacy.html:95
+msgid ""
+"Cookies may be used to recognize you automatically the next time you "
+"visit the website. As a result, information that you previously entered "
+"in certain fields on the website may automatically appear the next time "
+"you use the Service. Cookie data may be stored on your device, usually "
+"for a limited period of time."
+msgstr ""
+
+#: app/templates/privacy.html:98
+msgid ""
+"Cookies and similar tracking technologies may be used to collect "
+"information about your device, browser, activity, interactions with the "
+"Website, advertising performance, and interactions with ads. You may be "
+"able to limit or block cookies, or prevent your browser from accepting "
+"cookies altogether, by changing your browser’s cookie settings. These "
+"settings are usually available in the options, preferences, or similar "
+"menu of your browser."
+msgstr ""
+
+#: app/templates/privacy.html:104
+msgid "We process personal data for the purposes described below:"
+msgstr ""
+
+#: app/templates/privacy.html:106
+msgid "To Provide the Service:"
+msgstr ""
+
+#: app/templates/privacy.html:106
+msgid ""
+"We process personal data to provide the Service and enable you to use its"
+" functions. This includes supporting seamless use of the Service, "
+"preventing or addressing errors and technical issues, creating accounts, "
+"and processing personal data contained in documents uploaded to the "
+"website."
+msgstr ""
+
+#: app/templates/privacy.html:107
+msgid "To Provide Customer Support:"
+msgstr ""
+
+#: app/templates/privacy.html:107
+msgid ""
+"We process personal data to respond to requests for technical support, "
+"Service information, or other communications initiated by you. For this "
+"purpose, we may send you notifications or emails about the Service."
+msgstr ""
+
+#: app/templates/privacy.html:108
+msgid "To Communicate With You About the Service:"
+msgstr ""
+
+#: app/templates/privacy.html:108
+msgid ""
+"We may communicate with you by email or other electronic means regarding "
+"your use of the Service. These communications may include information "
+"about the Service. To opt out of certain emails, you may follow the "
+"instructions included in the footer of those emails."
+msgstr ""
+
+#: app/templates/privacy.html:109
+msgid "To Research, Analyze, Maintain, and Improve the Service:"
+msgstr ""
+
+#: app/templates/privacy.html:109
+msgid ""
+"We process personal data to better understand our business, analyze "
+"operations, maintain the Service, improve existing features, develop new "
+"products, test and improve offers, perform statistical analysis, and "
+"understand how different categories of users interact with the Service."
+msgstr ""
+
+#: app/templates/privacy.html:110
+msgid "To Send Marketing Communications:"
+msgstr ""
+
+#: app/templates/privacy.html:110
+msgid ""
+"We process personal data for marketing campaigns. As a result, you may "
+"receive information about our products, including special offers, new "
+"features, and products available on the website. If you do not want to "
+"receive marketing emails from us, you may unsubscribe by following the "
+"instructions in the footer."
+msgstr ""
+
+#: app/templates/privacy.html:111
+msgid "To Personalize and Measure Advertising:"
+msgstr ""
+
+#: app/templates/privacy.html:111
+msgid ""
+"We and our partners may use personal data to tailor advertisements and "
+"show them at relevant times. For example, if you visit our website, you "
+"may later see advertisements for our products on Google or other "
+"platforms."
+msgstr ""
+
+#: app/templates/privacy.html:112
+msgid "To Process Payments:"
+msgstr ""
+
+#: app/templates/privacy.html:112
+msgid ""
+"We provide paid products and/or services within the Service. For this "
+"purpose, we use third-party payment processing services. As a result, you"
+" are able to make a payment and we are notified that the payment has been"
+" made. We do not store or collect your payment card details ourselves."
+msgstr ""
+
+#: app/templates/privacy.html:113
+msgid "To Enforce Terms and Prevent Fraud:"
+msgstr ""
+
+#: app/templates/privacy.html:113
+msgid ""
+"We process personal data to enforce our agreements and contractual "
+"commitments, detect, prevent, and combat fraud, address unauthorized use "
+"of the Service, and respond to non-compliance with our Terms and "
+"Conditions of Use."
+msgstr ""
+
+#: app/templates/privacy.html:114
+msgid "To Comply With Legal Obligations:"
+msgstr ""
+
+#: app/templates/privacy.html:114
+msgid ""
+"We may process, use, or share personal data where required by law. This "
+"may include responding to lawful requests from law enforcement agencies, "
+"courts, regulators, or other public authorities."
+msgstr ""
+
+#: app/templates/privacy.html:121
+msgid ""
+"We use third-party tools and service providers to operate, support, "
+"improve, analyze, advertise, and process payments for the Service."
+msgstr ""
+
+#: app/templates/privacy.html:124
+msgid ""
+"We use analytics tools to understand how users interact with the Service,"
+" evaluate performance, identify trends, and improve the website and our "
+"products. These tools include Google Analytics, which helps us research "
+"and analyze use of the Service."
+msgstr ""
+
+#: app/templates/privacy.html:127
+msgid ""
+"We use advertising and marketing tools to promote the Service, measure "
+"advertising performance, and provide more relevant advertisements. These "
+"tools include Google AdSense. Google AdSense allows us to deliver "
+"tailored advertisements so that they appear to users based on their "
+"activity. Google allows its users to opt out of Google personalized ads."
+msgstr ""
+
+#: app/templates/privacy.html:130
+msgid ""
+"You may be able to influence or opt out of personalized advertising "
+"through device, browser, and third-party settings. For example, on iOS, "
+"you may go to Settings > Privacy > Apple Advertising; on Android, you may"
+" go to Settings > Privacy > Ads. You may also find information and opt-"
+"out options through industry resources, including the Network Advertising"
+" Initiative and the Digital Advertising Alliance."
+msgstr ""
+
+#: app/templates/privacy.html:133
+msgid ""
+"We use payment processing providers to enable purchases and process "
+"payments through the Service, which may include Stripe or PayPal. Payment"
+" card information is provided directly to our third-party payment "
+"processors. We do not store or collect full payment card details "
+"ourselves."
+msgstr ""
+
+#: app/templates/privacy.html:139
+msgid ""
+"We share personal data with third parties that help us operate, provide, "
+"improve, integrate, customize, support, and market the Service. We may "
+"share personal data for the purposes described in this Privacy Policy and"
+" with the parties described below."
+msgstr ""
+
+#: app/templates/privacy.html:140
+msgid ""
+"6.1. Service Providers: We share personal data with third parties that we"
+" engage to provide services or perform business functions on our behalf "
+"and based on our instructions, including cloud storage providers, data "
+"analytics providers, and payment processors."
+msgstr ""
+
+#: app/templates/privacy.html:141
+msgid ""
+"6.2. Law Enforcement Agencies and Public Authorities: We may use and "
+"disclose personal data to enforce our Terms and Conditions of Use, "
+"protect our rights, privacy, safety, or property, and respond to requests"
+" from courts, law enforcement agencies, regulatory agencies, public "
+"authorities, or other government bodies."
+msgstr ""
+
+#: app/templates/privacy.html:142
+msgid ""
+"6.3. Corporate Transactions and Affiliates: We may share or transfer "
+"personal data in connection with a corporate transaction, such as a sale "
+"of business, divestiture, merger, consolidation, asset sale, or "
+"bankruptcy."
+msgstr ""
+
+#: app/templates/privacy.html:148
+msgid ""
+"7.1. International Data Transfers: We may transfer personal data to "
+"countries other than the country in which the data was originally "
+"collected in order to provide the Service. If these countries do not have"
+" the same data protection laws, we use special safeguards, such as "
+"Standard Contractual Clauses approved by the European Commission."
+msgstr ""
+
+#: app/templates/privacy.html:149
+msgid ""
+"7.2. Data Retention: We store personal data for as long as reasonably "
+"necessary to achieve the purposes described in this Privacy Policy. "
+"Documents uploaded without an account are automatically and permanently "
+"deleted from our systems within 1 to 2 hours of upload. Personal data may"
+" be retained for a longer period if it becomes the subject of a legal "
+"claim or is relevant to litigation."
+msgstr ""
+
+#: app/templates/privacy.html:155
+msgid "You may have certain rights and choices regarding your personal data."
+msgstr ""
+
+#: app/templates/privacy.html:156
+msgid ""
+"8.1. Access, Review, Update, and Correction: You may review, edit, "
+"update, or correct personal data that you previously provided through the"
+" website."
+msgstr ""
+
+#: app/templates/privacy.html:157
+msgid ""
+"8.2. Deletion: You may request deletion of your personal data as "
+"permitted by law. When you request deletion of your personal data, we "
+"will use reasonable efforts to honor your request."
+msgstr ""
+
+#: app/templates/privacy.html:158
+msgid ""
+"8.3. Objection and Restriction: You may ask us to stop using all or some "
+"of your personal data, or to limit our use of it."
+msgstr ""
+
+#: app/templates/privacy.html:159
+msgid ""
+"8.4. How to Exercise Privacy Rights: To exercise any privacy rights, "
+"please send a request to our support email."
+msgstr ""
+
+#: app/templates/privacy.html:165
+msgid ""
+"This section applies only to users based in the EEA. We rely on your "
+"consent when we collect cookie files from your device and send marketing "
+"communications. We process data for the performance of a contract to "
+"provide the Service, customer support, and process payments. We also "
+"process data based on our legitimate interests unless overridden by your "
+"fundamental rights."
+msgstr ""
+
+#: app/templates/privacy.html:171
+msgid ""
+"10.1. California Privacy Rights: California’s Shine the Light law gives "
+"California residents the right to ask companies once a year what personal"
+" information they share with third parties for those third parties’ "
+"direct marketing purposes."
+msgstr ""
+
+#: app/templates/privacy.html:172
+msgid ""
+"10.2. Do Not Track Requests: Except as otherwise stated in this Privacy "
+"Policy, the website does not support “Do Not Track” requests."
+msgstr ""
+
+#: app/templates/privacy.html:178
+msgid ""
+"We may modify this Privacy Policy from time to time. If we decide to make"
+" material changes, we may notify you by available means, such as email. "
+"By continuing to access or use the Service after those changes become "
+"effective, you agree to be bound by the revised Privacy Policy."
+msgstr ""
+
+#: app/templates/privacy.html:184
+msgid ""
+"You may contact us at any time for information about this Privacy Policy "
+"and its previous versions. For any questions concerning your account or "
+"your personal data, please contact us at:"
+msgstr ""
+
+#: app/templates/result.html:3 app/templates/result.html:11
+msgid "File Processing Result"
+msgstr ""
+
+#: app/templates/result.html:12
+msgid "The system has successfully completed your file processing request"
+msgstr ""
+
+#: app/templates/result.html:23
+msgid "Checking and preparing your file..."
+msgstr ""
+
+#: app/templates/result.html:24
+msgid "Please do not close your browser at this time"
+msgstr ""
+
+#: app/templates/result.html:39
+msgid "Structural Scale"
+msgstr ""
+
+#: app/templates/result.html:43
+msgid "File Status"
+msgstr ""
+
+#: app/templates/result.html:45
+msgid "Ready to download"
+msgstr ""
+
+#: app/templates/result.html:54
+msgid "Download result file"
+msgstr ""
+
+#: app/templates/result.html:59
+msgid "Perform another processing task"
+msgstr ""
+
+#: app/templates/result.html:69
+msgid "Requested file not found"
+msgstr ""
+
+#: app/templates/result.html:70
+msgid "The file may have expired (expires in 10 minutes) or the ID is incorrect."
+msgstr ""
+
+#: app/templates/result.html:73
+msgid "← Back to homepage"
+msgstr ""
+
+#: app/templates/result.html:83
+msgid "Network connection error!"
+msgstr ""
+
+#: app/templates/result.html:84
+msgid "Not applicable"
+msgstr ""
+
+#: app/templates/result.html:85
+msgid "pages"
+msgstr ""
+
+#: app/templates/result.html:86
+msgid "sub-files"
+msgstr ""
+
+#: app/templates/result.html:87
+msgid "Download folder package (.ZIP)"
+msgstr ""
+
+#: app/templates/result.html:88
+msgid "Download text file (.TXT)"
+msgstr ""
+
+#: app/templates/result.html:89
+msgid "Download result file (.PDF)"
+msgstr ""
+
+#: app/templates/split.html:11
+msgid ""
+"Split your PDF file into multiple smaller files by pages, page\n"
+"            ranges, or desired file size"
+msgstr ""
+
+#: app/templates/split.html:44
+msgid "How to Split PDF"
+msgstr ""
+
+#: app/templates/split.html:50
+msgid "Upload PDF File"
+msgstr ""
+
+#: app/templates/split.html:52
+msgid ""
+"Click or drag your PDF document into the upload zone. Make sure the file "
+"format is valid."
+msgstr ""
+
+#: app/templates/split.html:57
+msgid "Choose Splitting Options"
+msgstr ""
+
+#: app/templates/split.html:59
+msgid ""
+"Select a splitting mode on the right panel: extract all pages, specify a "
+"custom page range, or set a maximum file size limit."
+msgstr ""
+
+#: app/templates/split.html:64
+msgid "Split & Download"
+msgstr ""
+
+#: app/templates/split.html:66
+msgid ""
+"Click \"Start Split PDF\" button. The system will process your request "
+"and automatically redirect you to the results download page."
+msgstr ""
+
+#: app/templates/split.html:82
+msgid "Change"
+msgstr ""
+
+#: app/templates/split.html:92
+msgid ""
+"Please select a PDF file first to configure the splitting\n"
+"                    options."
+msgstr ""
+
+#: app/templates/split.html:101
+msgid "PDF Splitting Options"
+msgstr ""
+
+#: app/templates/split.html:112
+msgid "Extract all pages"
+msgstr ""
+
+#: app/templates/split.html:113
+msgid ""
+"Export each page into a separate PDF\n"
+"                                file."
+msgstr ""
+
+#: app/templates/split.html:125
+msgid "Split by page range"
+msgstr ""
+
+#: app/templates/split.html:126
+msgid ""
+"Extract the desired range of\n"
+"                                pages."
+msgstr ""
+
+#: app/templates/split.html:132 app/templates/to_text.html:49
+msgid "From page"
+msgstr ""
+
+#: app/templates/split.html:138 app/templates/to_text.html:51
+msgid "To page"
+msgstr ""
+
+#: app/templates/split.html:155
+msgid "Max file size limit"
+msgstr ""
+
+#: app/templates/split.html:156
+msgid ""
+"Automatically split file based\n"
+"                                on maximum file size."
+msgstr ""
+
+#: app/templates/split.html:174
+msgid "Start Split PDF"
+msgstr ""
+
+#: app/templates/split.html:194
+msgid "Please select a valid PDF file format!"
+msgstr ""
+
+#: app/templates/split.html:195
+msgid "Please select a PDF file first"
+msgstr ""
+
+#: app/templates/terms.html:3
+msgid "Terms of Service - findpdftool.online"
+msgstr ""
+
+#: app/templates/terms.html:10
+msgid "Last updated: June 30, 2026"
+msgstr ""
+
+#: app/templates/terms.html:36
+msgid "1. Acceptance of Terms and Eligibility (Age Restrictions)"
+msgstr ""
+
+#: app/templates/terms.html:37
+msgid ""
+"1.1. Legal Agreement: By accessing, downloading, browsing, or utilizing "
+"findpdftool.online (the \"Service\", \"Website\", or \"Platform\"), you "
+"declare that you have read, understood, and consented to be legally bound"
+" by these Terms of Service and our Privacy Policy."
+msgstr ""
+
+#: app/templates/terms.html:38
+msgid ""
+"1.2. Age Restrictions: The Service is strictly not intended for "
+"individuals under 16 years of age. If you are between 16 and 18 years old"
+" (or the age of legal majority in your country), you represent that you "
+"have reviewed these Terms with your parent or legal guardian and that "
+"they consent to your use of our platform under their direct supervision."
+msgstr ""
+
+#: app/templates/terms.html:43
+msgid "2. Account Registration, Validity and Security"
+msgstr ""
+
+#: app/templates/terms.html:44
+msgid ""
+"2.1. Account Information: To access premium tools or specific conversion "
+"limits, you may be required to register an account. You promise to "
+"provide accurate, truthful, and updated registration details (such as a "
+"valid email address). Providing false data or attempting to impersonate "
+"others will result in instant termination."
+msgstr ""
+
+#: app/templates/terms.html:45
+msgid ""
+"2.2. Security Responsibility: You are fully accountable for maintaining "
+"the strict confidentiality of your account credentials, session states, "
+"and passwords. findpdftool.online shall not be held liable for any data "
+"loss or operational damages resulting from unauthorized access caused by "
+"your negligence."
+msgstr ""
+
+#: app/templates/terms.html:50
+msgid "3. Description of Services and System Modifications"
+msgstr ""
+
+#: app/templates/terms.html:51
+msgid ""
+"3.1. Scope of Utilities: This platform operates as an automated online "
+"web utility for processing, converting, merging, splitting, compressing, "
+"and editing Portable Document Format (.pdf) documents and associated "
+"image extensions."
+msgstr ""
+
+#: app/templates/terms.html:52
+msgid ""
+"3.2. Right to Mutate: We reserve the absolute right to modify, adjust, "
+"throttle, upgrade, or permanently discontinue any specific tool, limit, "
+"layout, or feature at any time without warning. We are not liable to you "
+"or any third party for structural changes or operational downtime."
+msgstr ""
+
+#: app/templates/terms.html:57
+msgid "4. Subscription Plans, Free Trials, and Automatic Renewals"
+msgstr ""
+
+#: app/templates/terms.html:58
+msgid ""
+"4.1. Subscription Billings: Certain advanced capabilities are offered on "
+"a paid subscription basis (Weekly, Monthly, or Annually). By activating a"
+" premium tier, you authorize our integrated third-party payment "
+"processors to charge the designated fees directly to your payment method."
+msgstr ""
+
+#: app/templates/terms.html:59
+msgid ""
+"4.2. Automatic Renewal: All subscription tiers, including Promotional "
+"Free Trials or low-cost introductory periods, automatically renew at the "
+"standard rate unless you manually cancel the plan before the current "
+"billing cycle or trial period concludes. Fees will be continuously "
+"debited using the initial payment details provided."
+msgstr ""
+
+#: app/templates/terms.html:60
+msgid ""
+"4.3. Price Variations: We reserve the right to alter our commercial "
+"billing rates. Any changes will be announced in advance via the website "
+"interface or direct email coordinates, giving you the choice to accept or"
+" cancel."
+msgstr ""
+
+#: app/templates/terms.html:65
+msgid "5. Cancellation and Subscription Management (The 24-Hour Rule)"
+msgstr ""
+
+#: app/templates/terms.html:66
+msgid ""
+"5.1. The 24-Hour Rule: To effectively prevent your subscription from "
+"automatically renewing and billing for the subsequent cycle, you must "
+"cancel your plan at least twenty-four (24) hours before the expiration of"
+" your active subscription or free trial duration."
+msgstr ""
+
+#: app/templates/terms.html:67
+msgid ""
+"5.2. Post-Cancellation Access: Upon executing a successful cancellation, "
+"your premium privileges will remain active until the official end of your"
+" current paid billing period. No fractional or pro-rated refunds are "
+"generated for unused duration during that cycle."
+msgstr ""
+
+#: app/templates/terms.html:72
+msgid "6. Strict Refund Policy and Digital Content Disclaimer"
+msgstr ""
+
+#: app/templates/terms.html:73
+msgid ""
+"6.1. No-Refund Rule: Except as explicitly outlined in Section 7 or "
+"mandated by applicable consumer laws, all commercial transactions made on"
+" findpdftool.online are final, non-refundable, and non-cancelable."
+msgstr ""
+
+#: app/templates/terms.html:74
+msgid ""
+"6.2. Rejected Claims: Refunds will not be processed for personal "
+"circumstances, including changing your mind, an accidental purchase, "
+"financial hardships, a failure to read the renewal rules, or because you "
+"no longer require the service."
+msgstr ""
+
+#: app/templates/terms.html:75
+msgid ""
+"6.3. Technical Fault Exception: If a technical system malfunction "
+"completely blocks you from accessing premium features, you may request an"
+" exception by submitting clear proof (such as error screenshots) within 7"
+" days of the event."
+msgstr ""
+
+#: app/templates/terms.html:80
+msgid "7. EU / UK Consumer Withdrawal Rights (14-Day Exception)"
+msgstr ""
+
+#: app/templates/terms.html:81
+msgid ""
+"7.1. Statutory Window: If you are located within the European Union (EU) "
+"or the United Kingdom (UK), you possess a statutory consumer right to "
+"withdraw from this digital contract within fourteen (14) days from the "
+"date of initial purchase without stating a reason."
+msgstr ""
+
+#: app/templates/terms.html:82
+msgid ""
+"7.2. Waiver of Right: By using the premium conversion engines or "
+"downloading processed files immediately after activation, you explicitly "
+"request that the performance of the service begins immediately. You "
+"acknowledge that once digital content delivery starts, you lose your "
+"statutory 14-day right to withdraw and claim a refund."
+msgstr ""
+
+#: app/templates/terms.html:87
+msgid "8. Acceptable Use Policy and Prohibited Server Conduct"
+msgstr ""
+
+#: app/templates/terms.html:88
+msgid ""
+"To ensure optimal system performance and fair bandwidth allocation, you "
+"are strictly prohibited from committing the following acts:"
+msgstr ""
+
+#: app/templates/terms.html:90
+msgid ""
+"Injecting malware, worms, severe Trojan frameworks, or broken documents "
+"designed to break the core architecture or backend storage nodes."
+msgstr ""
+
+#: app/templates/terms.html:91
+msgid ""
+"Deploying heavy script wrappers, automated head-less bots, bulk scraping "
+"commands, or high-frequency curl loops outside of our official web "
+"frontend user interface."
+msgstr ""
+
+#: app/templates/terms.html:92
+msgid ""
+"Executing automated load tests or initiating Denial of Service (DoS/DDoS)"
+" attacks against our edge network providers."
+msgstr ""
+
+#: app/templates/terms.html:93
+msgid ""
+"Processing document materials that violate copyright laws, trademark "
+"protections, or contain illicitly sourced components."
+msgstr ""
+
+#: app/templates/terms.html:99
+msgid "9. Uploaded Files, Temporary License, and Automated Purging"
+msgstr ""
+
+#: app/templates/terms.html:100
+msgid ""
+"9.1. Zero Claims: We assert no legal ownership or property rights over "
+"the files you process. You retain full copyright ownership of both your "
+"input materials and the transformed output results."
+msgstr ""
+
+#: app/templates/terms.html:101
+msgid ""
+"9.2. Processing License: You grant findpdftool.online a non-exclusive, "
+"temporary, zero-cost worldwide license to host, parse, cache, and modify "
+"your uploaded files solely to execute your requested document tools."
+msgstr ""
+
+#: app/templates/terms.html:102
+msgid ""
+"9.3. Hard Purging: To maintain standard privacy, your document files are "
+"automatically and permanently wiped from our server nodes within 1 to 2 "
+"hours. We create no historical backups, making files unrecoverable after "
+"expiration."
+msgstr ""
+
+#: app/templates/terms.html:107
+msgid "10. Intellectual Property Rights and Platform Ownership"
+msgstr ""
+
+#: app/templates/terms.html:108
+msgid ""
+"All codebases, design schemes, frontend buttons, original icons, "
+"stylesheets, structural logic, underlying algorithms, domain assets, and "
+"logos are the exclusive property of findpdftool.online. You are forbidden"
+" from duplicating, mirroring, or reverse-engineering any layout element "
+"or software code without explicit written clearance."
+msgstr ""
+
+#: app/templates/terms.html:113
+msgid "11. Comprehensive Disclaimer of Warranties and Limitation of Liability"
+msgstr ""
+
+#: app/templates/terms.html:115
+msgid ""
+"THE PLATFORM ARCHITECTURE AND CONVERSION utilities ARE OPERATED ON AN "
+"\"AS IS\" AND \"AS AVAILABLE\" STRUCTURAL MODEL WITH NO EXPRESS, IMPLIED,"
+" OR STATUTORY WARRANTIES."
+msgstr ""
+
+#: app/templates/terms.html:116
+msgid ""
+"WE DISCLAIM ALL WARRANTIES OF MERCHANTABILITY, FITNESS FOR A SPECIFIC "
+"DOCUMENT OPERATION, OR COMPLETELY ERROR-FREE FORMATTING OUTPUTS. IN NO "
+"EVENT SHALL FINDTOOLPDF.ONLINE BE LIABLE FOR ANY INDIRECT, INCIDENTAL, OR"
+" CONSEQUENTIAL FINANCIAL DISRUPTIONS, LOSS OF CONTRACTS, OR CORRUPTED "
+"FILES OUTCOMES."
+msgstr ""
+
+#: app/templates/terms.html:122
+msgid "12. Governing Law, Amendments, and Contact Details"
+msgstr ""
+
+#: app/templates/terms.html:123
+msgid ""
+"12.1. Jurisdiction: These Terms shall be interpreted under the laws of "
+"our primary operating country, bypassing conflict of laws principles. "
+"Disputes shall be settled in local courts of competent jurisdiction."
+msgstr ""
+
+#: app/templates/terms.html:124
+msgid ""
+"12.2. Policy Evolution: We reserve the right to revise these Terms at any"
+" time. Continuing to browse findpdftool.online following a text change "
+"constitutes a legally binding agreement to the updated layout. Reach us "
+"with any questions via email at:"
+msgstr ""
+
+#: app/templates/to_text.html:11
+msgid "Extract text from your PDF files accurately and quickly"
+msgstr ""
+
+#: app/templates/to_text.html:20
+msgid ""
+"Select PDF\n"
+"                        File"
+msgstr ""
+
+#: app/templates/to_text.html:27
+msgid "Drag & drop or click to choose file"
+msgstr ""
+
+#: app/templates/to_text.html:28
+msgid ""
+"Drag & drop or\n"
+"                            click to choose file"
+msgstr ""
+
+#: app/templates/to_text.html:34
+msgid ""
+"Extraction\n"
+"                        Range"
+msgstr ""
+
+#: app/templates/to_text.html:40
+msgid "All Pages"
+msgstr ""
+
+#: app/templates/to_text.html:45
+msgid "Custom Range"
+msgstr ""
+
+#: app/templates/to_text.html:58 app/templates/to_text.html:62
+msgid "Extract Text"
+msgstr ""
+
+#: app/templates/to_text.html:59
+msgid "Processing data..."
+msgstr ""
+
+#: app/templates/to_text.html:80
+msgid "How to Extract Text from PDF"
+msgstr ""
+
+#: app/templates/to_text.html:86
+msgid "Upload Document"
+msgstr ""
+
+#: app/templates/to_text.html:88
+msgid ""
+"Select and upload your PDF file. You can extract the full document or "
+"define a custom page range fields."
+msgstr ""
+
+#: app/templates/to_text.html:93
+msgid "Extract & Manage"
+msgstr ""
+
+#: app/templates/to_text.html:95
+msgid ""
+"Click \"Extract Text\". The results will appear right below, where you "
+"can search, copy, or download as a TXT file."
+msgstr ""
+
+#: app/templates/to_text.html:100
+msgid "AI Smart Assistant"
+msgstr ""
+
+#: app/templates/to_text.html:102
+msgid ""
+"Use our premium AI tools to quickly summarize, translate text to English,"
+" or extract important keywords with one click."
+msgstr ""
+
+#: app/templates/to_text.html:114
+msgid "Text Result"
+msgstr ""
+
+#: app/templates/to_text.html:119
+msgid "Search keywords..."
+msgstr ""
+
+#: app/templates/to_text.html:124
+msgid "Copy"
+msgstr ""
+
+#: app/templates/to_text.html:128
+msgid "Download .TXT"
+msgstr ""
+
+#: app/templates/to_text.html:137
+msgid "Extracted text from the PDF file will be displayed here."
+msgstr ""
+
+#: app/templates/to_text.html:148
+msgid "AI Text Assistant (Premium)"
+msgstr ""
+
+#: app/templates/to_text.html:153
+msgid "🤖 Quick Summary"
+msgstr ""
+
+#: app/templates/to_text.html:156
+msgid "🌍 Translate to English"
+msgstr ""
+
+#: app/templates/to_text.html:159
+msgid "🔑 Extract Keywords"
+msgstr ""
+
+#: app/templates/to_text.html:182
+msgid "🤖 AI is analyzing the text structure, please wait a moment..."
+msgstr ""
+
+#: app/templates/to_text.html:183
+msgid "No text content found in this PDF file."
+msgstr ""
+
+#: app/templates/to_text.html:184
+msgid "Copied all text to clipboard!"
+msgstr ""
+
+#: app/templates/to_text.html:185
+msgid "An error occurred during extraction!"
+msgstr ""
+
+#: app/templates/to_text.html:186
+msgid "No text found for AI to process!"
+msgstr ""
+
+#: app/templates/to_text.html:187
+msgid "System connection error during AI processing!"
+msgstr ""
+
+#: app/templates/tools.html:3
+msgid "User Guide"
+msgstr ""
+
+#: app/templates/tools.html:8
+msgid "Welcome to our user’s guide"
+msgstr ""
+
+#: app/templates/tools.html:10
+msgid "A simple guide to help you master our PDF tools in seconds."
+msgstr ""
+
+#: app/templates/tools.html:23
+msgid ""
+"Combine multiple PDF documents into one single file. Simply select the "
+"files from your device, drag and drop them into the desired order, and "
+"click \"Merge\". Perfect for organizing your documents efficiently."
+msgstr ""
+
+#: app/templates/tools.html:35
+msgid ""
+"Extract specific pages from a large PDF file. You can choose to split "
+"your document into single pages or a custom range. It is the fastest way "
+"to get exactly the pages you need."
+msgstr ""
+
+#: app/templates/tools.html:47
+msgid ""
+"Convert your PDF documents into plain text files. Our OCR technology "
+"recognizes the content inside your PDF, allowing you to edit or copy the "
+"text easily for further use."
+msgstr ""
+
+#: app/templates/tools.html:59
+msgid ""
+"Turn your images (JPG, PNG) into a high-quality PDF file. You can upload "
+"multiple images at once and arrange them in the order you want before "
+"converting."
+msgstr ""
+

@@ -1,0 +1,11 @@
+.venv
+.preview-python
+.sites-runtime
+node_modules
+__pycache__
+*.pyc
+*.b64
+.git
+.env
+app/static/uploads/*
+!app/static/uploads/metadata_db.json
